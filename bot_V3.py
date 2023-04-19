@@ -4,8 +4,8 @@ from binance.client import Client
 from binance.enums import *
 import requests
 
-api_key='yV3pMGLeDyflG55jkNPr3tscCG5FBfcWyMXcEHZ2Ub852MAtkdELtDIPfmPLlEf4'
-api_secret = 'zpUuQVsyyF0fytC1lDDQgy1BGk6Pv1iAWouAHl7zoTzczajQfqcRd20IG8UfO00W'
+api_key='YOUR_KEY'
+api_secret = 'YOUR_KEY'
 
 #current_price = float(input("quel est le prix actuel du token ou quel prix de base veux-tu définir ? "))
 symbol = 'GMTUSDT'
