@@ -9,7 +9,7 @@ from pybit.unified_trading import HTTP
 exchange = ccxt.bybit()
 
 # Configuration de l'API avec vos clés API Bybit
-api_key = 'PnZowH7cDH9PS9c2XG'
+api_key = 
 api_secret = 'WLbYobPrbhOWI2fsXjlQJtngy2h87G62MyJg'
 
 session = HTTP(
